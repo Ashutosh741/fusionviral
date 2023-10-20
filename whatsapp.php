@@ -7,23 +7,20 @@
 <!-- On Header Section End -->
 
 <!-- Start Hero -->
-<!-- <div class="cs-page_heading cs-style1 cs-center text-center cs-bg" data-src="assets/img/service_hero_bg.jpeg"> -->
-<video autoplay muted loop id="myVideo">
-<source src="assets/videos/4k8.mp4" type="video/mp4">
-</video>
-  <div class="container">
-    <div class="cs-page_heading_in">
-      <h1 class="cs-page_title cs-font_50 cs-white_color6">Whatsapp Promotion
-      </h1>
-      <!-- <ol class="breadcrumb text-uppercase2">
-        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-          <li class="breadcrumb-item active">Youtube</li>
-        <li class="breadcrumb-text">If you are youtube creator and looking for real youtube marketing to take your
-          videos to more viewership & increasing reach than you are at right place to get real youtube marketing
-          solutions</li>
-      </ol> -->
-    </div>
+
+
+<div class="whatsapp-banner position-relative">
+  <div class="background-video">
+    <video autoplay muted loop id="myVideo">
+    <source src="assets/videos/4k8.mp4" type="video/mp4">
+    </video>
   </div>
+    <div class="container">
+      <div class="cs-page_heading_in">
+        <h1 class="whatsapp-text cs-page_title cs-font_50 cs-white_color">Whatsapp Promotion
+        </h1>
+      </div>
+    </div>
 </div>
 <!-- End Hero -->
 <div class="cs-height_150 cs-height_lg_80"></div>
@@ -154,36 +151,6 @@
       </div>
       <div class="cs-height_30 cs-height_lg_35"></div>
     </div>
-    <!-- <div class="col-lg-48">
-      <div class="cs-iconbox cs-style2 text-center">
-        <div class="cs-iconbox_icon">
-          <svg width="58" height="57" viewBox="0 0 58 57" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <rect x="0.75" y="0.75" width="48.5" height="48.5" rx="4.25" stroke="#999696" stroke-width="1.5"
-              stroke-dasharray="3 3" />
-            <rect x="8" y="7" width="50" height="50" rx="5" fill="white" />
-          </svg>
-        </div>
-        <h2 class="cs-iconbox_title">Youtube Live Streams Views</h2>
-        <div class="cs-iconbox_subtitle">Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium also a
-          doloremque laudantium, totam remain beatae vitae dictaro enim ipsam sunt explicabo.</div>
-      </div>
-      <div class="cs-height_30 cs-height_lg_35"></div>
-    </div>
-    <div class="col-lg-48">
-      <div class="cs-iconbox cs-style2 text-center">
-        <div class="cs-iconbox_icon">
-          <svg width="58" height="57" viewBox="0 0 58 57" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <rect x="0.75" y="0.75" width="48.5" height="48.5" rx="4.25" stroke="#999696" stroke-width="1.5"
-              stroke-dasharray="3 3" />
-            <rect x="8" y="7" width="50" height="50" rx="5" fill="white" />
-          </svg>
-        </div>
-        <h2 class="cs-iconbox_title">Youtube Video Share</h2>
-        <div class="cs-iconbox_subtitle">Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium also a
-          doloremque laudantium, totam remain beatae vitae dictaro enim ipsam sunt explicabo.</div>
-      </div>
-      <div class="cs-height_30 cs-height_lg_35"></div>
-    </div> -->
   </div>
 </div>
 

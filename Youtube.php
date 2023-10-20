@@ -7,26 +7,21 @@
 <!-- On Header Section End -->
 
 <!-- Start Hero -->
-<!-- <div class="cs-page_heading cs-style1 cs-center text-center cs-bg" data-src="assets/img/service_hero_bg.jpeg"> -->
-<video autoplay muted loop id="myVideo">
-<source src="assets/videos/4k3.mp4" type="video/mp4">
-</video>
-  <div class="container">
-    <div class="cs-page_heading_in">
-      <h1 class="cs-page_title cs-font_50 cs-white_color2">Promote Your Youtube Videos <br>With Real Promotional <br>Services
-      </h1>
-      <!-- <ol class="breadcrumb text-uppercase2">
-        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-          <li class="breadcrumb-item active">Youtube</li>
-        <li class="breadcrumb-text">If you are youtube creator and looking for real youtube marketing to take your
-          videos to more viewership & increasing reach than you are at right place to get real youtube marketing
-          solutions</li>
-      </ol> -->
-    </div>
+<div class="youtube-banner position-relative">
+  <div class="background-video">
+    <video autoplay muted loop id="myVideo">
+    <source src="assets/videos/4k3.mp4" type="video/mp4">
+    </video>
   </div>
+    <div class="container">
+      <div class="cs-page_heading_in">
+        <h1 class="youtube-text cs-page_title cs-font_50 cs-white_color">Promote Your Youtube Videos <br>With Real Promotional <br>Services
+        </h1>
+      </div>
+    </div>
 </div>
 <!-- End Hero -->
-<!-- <div class="cs-height_150 cs-height_lg_80"></div> -->
+<div class="cs-height_150 cs-height_lg_80"></div>
 
 <!-- Start Icon Box -->
 <div class="container">

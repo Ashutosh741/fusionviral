@@ -10,15 +10,19 @@
 
 
     <!-- Start Hero -->
-    <div class="cs-hero cs-style1 cs-bg cs-fixed_bg cs-shape_wrap_1" data-src="assets/img/hero_bg.jpe" id="home">  
-      <video autoplay muted loop id="myVideo2">
+    <div class="cs-hero cs-style1 index-banner cs-bg cs-fixed_bg cs-shape_wrap_1" data-src="assets/img/hero_bg.jpe" id="home">  
+      <video autoplay muted loop id="myVideo">
       <source src="assets/videos/4k7.mp4" type="video/mp4">
       </video>
       <div class="cs-shape_1"></div>
       <div class="cs-shape_1"></div>
       <!-- <div class="cs-shape_1"></div> -->
+
+      <!-- <div class="index-text">
+
+      </div> -->
       <div class="container">
-        <div class="cs-hero_text">
+        <div class=" index-text cs-hero_text">
           <h1 class="cs-hero_title wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.2s"> Your Story<br>Our Social Strategy</h1>
           <div class="cs-hero_info">
             
@@ -49,6 +53,20 @@
       </div>
       <a href="#service" class="cs-down_btn"></a>
     </div>
+
+    <!-- <div class="youtube-banner position-relative">
+        <div class="background-video">
+          <video autoplay muted loop id="myVideo">
+          <source src="assets/videos/4k7.mp4" type="video/mp4">
+          </video>
+        </div>
+          <div class="container">
+            <div class="cs-page_heading_in">
+              <h1 class="youtube-text cs-page_title cs-font_50 cs-white_color">Promote Your Youtube Videos <br>With Real Promotional <br>Services
+              </h1>
+            </div>
+          </div>
+    </div> -->
     <!-- End Hero -->
     <!-- Start FunFact -->
     <section>

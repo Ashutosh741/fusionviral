@@ -8,17 +8,16 @@
 <!-- On Header Section End -->
 
   <!-- Start Hero -->
-  <!-- <div class="cs-page_heading cs-style1 cs-center text-center cs-bg" data-src="assets/img/service_hero_bg.jpeg"> -->
-  <video autoplay muted loop id="myVideo">
-  <source src="assets/videos/4k2.mp4" type="video/mp4">
-  </video>
+
+  <div class="linkedin-banner position-relative">
+  <div class="background-video">
+    <video autoplay muted loop id="myVideo">
+    <source src="assets/videos/4k2.mp4" type="video/mp4">
+    </video>
+  </div>
     <div class="container">
       <div class="cs-page_heading_in">
-        <h1 class="cs-page_title cs-font_50 cs-white_color1">Linkedin Management</h1>
-        <!-- <ol class="breadcrumb text-uppercase1">
-          <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-          <li class="breadcrumb-item active">Linkedin Management</li>
-        </ol> -->
+      <h1 class="linkedin-text cs-page_title cs-font_50 cs-white_color">Linkedin Management</h1>
       </div>
     </div>
   </div>

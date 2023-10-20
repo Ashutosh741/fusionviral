@@ -9033,27 +9033,17 @@ h1.h1_responsive {
 
 
 #myVideo {
-  position: static;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 75%;
-  margin-top: -150px;
+  height: 100vh;
+  width: 100vw;
+  object-fit: cover;
 }
 
-@media (max-width: 590px) {
-#myVideo {
-  margin-top: -3px;
-  margin-left: -159px;
-  margin-bottom: 99px;
-  width: 180%;
-}
-}
 
-h1.cs-page_title.cs-font_50.cs-white_color1 {
+
+/* h1.cs-page_title.cs-font_50.cs-white_color1 {
   margin-top: -220px;
   margin-left: 364px;
-}
+} */
 
 ol.breadcrumb.text-uppercase1 {
   margin-left: 502px;
@@ -9063,15 +9053,137 @@ img.img-fluid.why_buyL_ytbvws_Img3 {
   border-radius: 44px;
 }
 
-h1.cs-page_title.cs-font_50.cs-white_color2 {
-  margin-top: -594px;
-  margin-bottom: 404px;
-  padding-left: 163px;
-  padding-right: 150px;
+h1.cs-page_title.cs-font_50.cs-white_color {
+  position: absolute;
   text-align: center;
 }
 
+.youtube-text{
+  top: 45vh;
+  left: 26vw;
+}
+
+.whatsapp-text{
+  top: 45vh;
+  left: 32vw;
+}
+
+.twitter-text{
+  top: 45vh;
+  left: 32vw;
+}
+
+
+.tumbler-text{
+  top: 45vh;
+  left: 32vw;
+}
+
+
+
+.tiktok-text{
+  top: 45vh;
+  left: 32vw;
+}
+
+
+.spotify-text{
+  top: 45vh;
+  left: 32vw;
+}
+
+
+.snapchat-text{
+  top: 45vh;
+  left: 32vw;
+}
+
+
+
+.pinterest-text{
+  top: 45vh;
+  left: 32vw;
+}
+
+.instagram-text{
+  top: 45vh;
+  left: 32vw;
+}
+
+.facebook-text{
+  top: 45vh;
+  left: 32vw;
+}
+
+.linkedin-text{
+  top: 45vh;
+  left: 32vw;
+}
+
 @media (max-width: 590px) {
+  #myVideo {
+    height: 50vh;
+  
+  }
+  
+  .spotify-text {
+    top: 19vh;
+    left: 6vw;
+  }
+  
+  .instagram-text{
+    top: 19vh;
+    left: 6vw;
+  }
+  
+  .facebook-text{
+    top: 16vh;
+    left: 6vw;
+  }
+  .linkedin-text{
+    top: 16vh;
+    left: 6vw;
+  }
+  .pinterest-text{
+    top: 16vh;
+    left: 6vw;
+  }
+  .snapchat-text{
+    top: 16vh;
+    left: 6vw;
+  }
+  .spotify-text{
+    top: 16vh;
+    left: 6vw;
+  }
+  .tiktok-text{
+    top: 16vh;
+    left: 6vw;
+  }
+  
+  .tumbler-text{
+    top: 16vh;
+    left: 6vw;
+  }
+  
+  .twitter-text{
+    top: 16vh;
+    left: 6vw;
+  }
+  
+  .whatsapp-text{
+    top: 16vh;
+    left: 6vw;
+  }
+
+  .youtube-text{
+    top: 11vh;
+    left: 4vw;
+  }
+  
+  }
+
+/* @media (max-width: 590px) {
 h1.cs-page_title.cs-font_50.cs-white_color2 {
   margin-top: -392px;
   margin-bottom: 88px;
@@ -9117,9 +9229,9 @@ h1.cs-page_title.cs-font_50.cs-white_color4 {
   margin-bottom: 200px;
   text-align: center;
 }
-}
+} */
 
-#myVideo2 {
+/* #myVideo2 {
   position: absolute;
   right: 0;
   bottom: 0;
@@ -9135,9 +9247,9 @@ h1.cs-page_title.cs-font_50.cs-white_color4 {
   min-width: 100%;
   min-height: 100%;
 }
-}
+} */
 
-h1.cs-page_title.cs-font_50.cs-white_color5 {
+/* h1.cs-page_title.cs-font_50.cs-white_color5 {
   margin-top: -594px;
   margin-bottom: 404px;
   padding-left: 163px;
@@ -9173,4 +9285,29 @@ h1.cs-page_title.cs-font_50.cs-white_color6 {
   padding-left: 70px;
   text-align: center;
 }
+} */
+
+
+.index-banner{
+  padding: 0px !important;
+  height: 100vh !important;
+  min-height: 100vh !important;
+}
+.index-text{
+  position: absolute !important;
+  top: 18vh;                                                                                                 vh;
+  left: 10vw;
+}
+@media (max-width: 600px) {
+  .index-text{
+    top: 12%;
+    left: 7%;
+  }
+
+  .index-banner{
+    display: block !important;
+    height: 450px !important;
+    min-height: 600px !important;
+  }
+  
 }
