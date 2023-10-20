@@ -7,17 +7,22 @@
 <!-- On Header Section End -->
 
 <!-- Start Hero -->
-<div class="youtube-banner position-relative">
+<div class="youtube-banner position-relative d-flex justify-content-center align-items-center">
   <div class="background-video">
     <video autoplay muted loop id="myVideo">
     <source src="assets/videos/4k3.mp4" type="video/mp4">
     </video>
   </div>
-    <div class="container">
-      <div class="cs-page_heading_in">
-        <h1 class="youtube-text cs-page_title cs-font_50 cs-white_color">Promote Your Youtube Videos <br>With Real Promotional <br>Services
-        </h1>
+    <div class="container position-absolute">
+      <div class="row">
+        <div class="col">
+          <div class="cs-page_heading_in">
+            <h1 class="youtube-text cs-page_title cs-font_50 cs-white_color">Promote Your Youtube Videos <br>With Real Promotional <br>Services
+          </h1>
+        </div>
+        </div>
       </div>
+
     </div>
 </div>
 <!-- End Hero -->

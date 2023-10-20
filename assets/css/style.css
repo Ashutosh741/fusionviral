@@ -8952,10 +8952,10 @@ img.img-fluid.play_button {
   max-width: 100%;
 }
 
-.why_buyL_ytbvws_txt {
+/* .why_buyL_ytbvws_txt {
   padding-top: 30px;
   padding-right: 80px;
-}
+} */
 
 img.img-fluid.why_buyL_ytbvws_Img {
   border-radius: 44px;
@@ -9000,15 +9000,15 @@ h1.h1_responsive {
 }
 
 .why_buyF_ytbvws_iconimg {
-  max-width: 10%;
+  text-align: center;
 }
 
-@media (max-width: 590px) {
+/* @media (max-width: 590px) {
   .why_buyF_ytbvws_iconimg {
     max-width: 30%;
     margin-left: 109px;
   }
-  }
+  } */
 
 @media screen and (max-width: 991px){
   .why_buyF_ytbsbc {
@@ -9017,15 +9017,17 @@ h1.h1_responsive {
 }
 
 .why_buyL_ytbvws_iconimg {
-  max-width: 10%;
+  /* max-width: 10%; */
+  width: 100%;
+  text-align: center;
 }
 
-@media (max-width: 590px) {
+/* @media (max-width: 590px) {
   .why_buyL_ytbvws_iconimg {
     max-width: 30%;
     margin-left: 109px;
   }
-  }
+  } */
 
   .why_buyF_ytbvws_txt {
     padding-top: 30px;
@@ -9054,16 +9056,19 @@ img.img-fluid.why_buyL_ytbvws_Img3 {
 }
 
 h1.cs-page_title.cs-font_50.cs-white_color {
-  position: absolute;
   text-align: center;
+  /* height: 100%; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.youtube-text{
+/* .youtube-text{
   top: 45vh;
   left: 26vw;
-}
+} */
 
-.whatsapp-text{
+/* .whatsapp-text{
   top: 45vh;
   left: 32vw;
 }
@@ -9118,7 +9123,7 @@ h1.cs-page_title.cs-font_50.cs-white_color {
 .linkedin-text{
   top: 45vh;
   left: 32vw;
-}
+} */
 
 @media (max-width: 590px) {
   #myVideo {
@@ -9310,4 +9315,18 @@ h1.cs-page_title.cs-font_50.cs-white_color6 {
     min-height: 600px !important;
   }
   
+}
+
+@media (min-width: 600px) {
+
+
+.why_buyL_ytbvws_RightContent{
+  margin: 0px 4rem;
+}
+
+.why_buyF_ytbvws_RightContent{
+  
+  margin: 0px 4rem;
+
+}
 }

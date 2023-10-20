@@ -8,20 +8,27 @@
 <!-- On Header Section End -->
 
   <!-- Start Hero -->
-  <!-- <div class="cs-page_heading cs-style1 cs-center text-center cs-bg" data-src="assets/img/service_hero_bg.jpeg"> -->
-  <video autoplay muted loop id="myVideo">
-   <source src="assets/videos/4k9.mp4" type="video/mp4">
-  </video>
-    <div class="container">
-      <div class="cs-page_heading_in">
-        <h1 class="cs-page_title cs-font_50 cs-white_color6">Services</h1>
-        <!-- <ol class="breadcrumb text-uppercase">
-          <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-          <li class="breadcrumb-item active">Services</li>
-        </ol> -->
-      </div>
-    </div>
+
+
+  <div class=" position-relative d-flex justify-content-center align-items-center">
+  <div class="background-video">
+    <video autoplay muted loop id="myVideo">
+    <source src="assets/videos/4k9.mp4" type="video/mp4">
+    </video>
   </div>
+    <div class="container position-absolute">
+      <div class="row">
+        <div class="col">
+          <div class="cs-page_heading_in">
+            <h1 class="youtube-text cs-page_title cs-font_50 cs-white_color">Services
+          </h1>
+        </div>
+        </div>
+      </div>
+
+    </div>
+</div>
+
   <!-- End Hero -->
   <div class="cs-height_150 cs-height_lg_80"></div>
 

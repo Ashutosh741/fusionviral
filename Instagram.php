@@ -9,13 +9,13 @@
 
   <!-- Start Hero -->
 
-  <div class="instagram-banner position-relative">
+  <div class="instagram-banner position-relative d-flex justify-content-center align-items-center">
   <div class="background-video">
     <video autoplay muted loop id="myVideo">
     <source src="assets/videos/4k5.mp4" type="video/mp4">
     </video>
   </div>
-    <div class="container">
+    <div class="container position-absolute">
       <div class="cs-page_heading_in">
       <h1 class="instagram-text cs-page_title cs-font_50 cs-white_color">Instagram Management</h1>
       </div>

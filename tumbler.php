@@ -9,13 +9,13 @@
 
   <!-- Start Hero -->
 
-  <div class="tumbler-banner position-relative">
+  <div class="tumbler-banner position-relative d-flex justify-content-center align-items-center">
   <div class="background-video">
     <video autoplay muted loop id="myVideo">
     <source src="assets/videos/4k12.mp4" type="video/mp4">
     </video>
   </div>
-    <div class="container">
+    <div class="container position-absolute">
       <div class="cs-page_heading_in">
         <h1 class="tumbler-text cs-page_title cs-font_50 cs-white_color">Tumbler Management
         </h1>
